@@ -1,8 +1,5 @@
-# Trading-Fleet
-The project Trading fleet is a website mainly focused on the trading related subjects for the beginners who are new in this field. It also provides basic intro into crypto. 
- Recent studies shows that people are having no knowledge in trading and then enters in this field causes them a trouble. This particular project deals with the people who are having zero knowledge in trading and wants to enter in this field. The main motive of this project is to educate people about trades and stocks. It is completely feasible to users and totally economic. 
-
-Home section About us section services section user login/signup contact us
+# Trading-Fleet-Site
+The Trading Fleet project is a website dedicated to educating beginners about trading, with a particular focus on those who are new to the field. It also offers a basic introduction to cryptocurrency. Recent studies indicate that many individuals struggle when entering trading without prior knowledge. This project aims to support those with zero trading experience, helping them navigate the world of trades and stocks. The primary goal is to provide accessible and affordable education on trading.
 
 # CSS:
 CSS means Cascading StyleSheet . CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. Webpage is made more attractive and dynamic by using CSS. It is basically used to decorate the website which means how the website should look like depends on.
